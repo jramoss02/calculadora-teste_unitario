@@ -1,4 +1,5 @@
 # Calculadora teste unitario
+![TESTE](https://github.com/jramoss02/calculadora-teste_unitario/assets/77749469/3ba87d55-7374-483f-9aae-6235dc75bf70)
 
 > Demonstração do projeto.
 
