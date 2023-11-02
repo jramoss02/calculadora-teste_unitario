@@ -1,3 +1,11 @@
+/**
+ * @author José Ramos
+ * @version 1.03
+ * @since Release 1.02
+ *
+ * Classe de teste JUnit para as operações da calculadora.
+ */
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
