@@ -1,3 +1,10 @@
+/**
+ * @author José Ramos
+ * @version 1.03
+ * @since Release 1.02
+ *
+ * Aplicação que implementa uma calculadora simples.
+ */
 import java.util.Scanner;
 
 public class CALCULADORA {

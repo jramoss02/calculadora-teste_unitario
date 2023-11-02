@@ -1,5 +1,18 @@
+/**
+ * @author José Ramos
+ * @version 1.03
+ * @since Release 1.02
+ *
+ * Classe responsável por realizar operações de divisão.
+ */
 public class Divisao {
-    // Método para realizar a divisão de dois números
+    /**
+     * Realiza a operação de divisão de dois números.
+     * @param a O dividendo.
+     * @param b O divisor.
+     * @return O resultado da divisão.
+     * @throws ArithmeticException se o divisor for zero.
+     */
     public double dividir(double a, double b) {
         // Verifica se o divisor (b) é igual a zero
         if (b == 0) {
